@@ -1,0 +1,7 @@
+CREATE TABLE contacts(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+name VARCHAR(20),
+surname VARCHAR(20),
+number INTEGER
+
+);
