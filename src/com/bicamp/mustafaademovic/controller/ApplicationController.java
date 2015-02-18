@@ -6,7 +6,11 @@ import javax.swing.JOptionPane;
 
 import com.bicamp.mustafaademovic.model.*;
 import com.bicamp.mustafaademovic.view.*;
-
+/**
+ * Komentar
+ * @author mustafa
+ *
+ */
 public class ApplicationController {
 
 	public static void home() {
