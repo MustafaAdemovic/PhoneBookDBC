@@ -19,10 +19,12 @@ public class ApplicationController {
 		ApplicationView.home();
 	}
 	
+	
 	public static void addContact() {
 		
 		ApplicationView.addContact();
 	}
+	
 	
 	public static void create(String name, String surname, String number) {
 		
